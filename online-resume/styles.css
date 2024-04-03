@@ -3,15 +3,18 @@ background-color: #040D12;
 }
 
 .section1 {
-  border: 2px solid yellow;
+  border: 2px solid #183D3D;
+  height: 40vh;
+  width: 250vh;
+
 } 
 
 .section1 h1 {
-color: white;
+color: #FAF0E6;
 
 }
 
 .section1 p {
-color: white;
+color: #FAF0E6;
 
 }
