@@ -1,40 +1,35 @@
 body {
-background-color: #040D12;
+  background-color: #040d12;
 }
 
 .section1 {
-  border: 2px solid #183D3D;
-  height: 100vh;
-  width: 100vh;
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  container: ;
-
-} 
+  border: 2px solid #183d3d;
+  height: 25vh;
+  width: 90vh;
+}
 
 .section1 h1 {
-color: #FAF0E6;
-
+  color: #faf0e6;
 }
 
 .section1 p {
-color: #FAF0E6;
-
+  color: #faf0e6;
 }
 
 .box1 {
-border: 2px solid #FAF0E6;
-/* width: 500px;
-height: 150px; */
-
+  border: 2px solid #faf0e6;
+  width: 500px;
+height: 150px;
 }
 
 .box2 {
-  border: 2px solid #FAF0E6;
-width: ;
+  border: 2px solid #faf0e6;
+  width:  ;
 }
 
 .box3 {
-  border: 2px solid #FAF0E6;
-
+  border: 2px solid #faf0e6;
 }
