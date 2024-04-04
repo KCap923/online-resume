@@ -17,9 +17,9 @@ a:hover {
   background-color: #DDE6ED;
 }
 
-image {
-display: flex; 
-justify-content: flex-start;
+.image {
+/* display: flex; 
+justify-content: flex-start; */
 
 }
 
