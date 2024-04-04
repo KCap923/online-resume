@@ -20,14 +20,17 @@ a:hover {
 .image {
 display: flex;
 justify-content: flex-start;
+
 }
 
 .section1 {
 display: flex;
 justify-content: center;
+margin-top: 10px;
 
 }
 
 .div-border {
   border: 2px solid whitesmoke;
+  padding: 30px 30px 30px 30px;
 }
