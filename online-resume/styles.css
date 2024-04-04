@@ -17,17 +17,19 @@ a:hover {
   background-color: #DDE6ED;
 }
 
-.image {
-display: flex;
+image {
+display: flex; 
 justify-content: flex-start;
 
 }
 
 .section1 {
 display: flex;
-justify-content: flex-end;
-
+justify-content: end;
+border: 2px solid antiquewhite;
 }
+
+
 
 .bio {
   border: 2px solid antiquewhite;
