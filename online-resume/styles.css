@@ -33,6 +33,14 @@ justify-content: flex-end;
   border: 2px solid antiquewhite;
 }
 
+.employment {
+  border: 2px solid antiquewhite;
+}
+
+.education {
+  border: 2px solid antiquewhite;
+}
+
 
 .div-border {
   border: 2px solid whitesmoke;
