@@ -1,29 +1,5 @@
 body {
   background-color: #191919;
+  color: antiquewhite;
 }
 
-.section1 {
-border: 2px solid antiquewhite;
-height: 350px;
-
-}
-
-.box1 {
-border: 2px solid antiquewhite;
-width: 100px;
-height: 100px;
-
-}
-
-.box2 {
-border: 2px solid antiquewhite;
-width: 100px;
-height: 100px;
-
-}
-
-.box3 {
-border: 2px solid antiquewhite;
-width: 100px;
-height: 100px;
-}
