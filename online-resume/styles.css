@@ -4,6 +4,11 @@ body {
 }
 
 img {
-  height: 200px;
+  height: 250px;
 }
 
+a {
+  font-weight: bold;
+  color: #526D82;
+  text-decoration: none;
+}
