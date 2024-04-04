@@ -17,3 +17,7 @@ a:hover {
   background-color: #DDE6ED;
 }
 
+.section1 {
+display: flex;
+
+}
