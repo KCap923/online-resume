@@ -1,6 +1,6 @@
 body {
-  background-color: #191919;
-  color: antiquewhite;
+  background-color: #27374D;
+  color: #FAF0E6;
 }
 
 img {
@@ -9,7 +9,7 @@ img {
 
 a {
   font-weight: bold;
-  color: #526D82;
+  color: #9DB2BF;
   text-decoration: none;
 }
 
@@ -33,16 +33,28 @@ justify-content: flex-end;
   border: 2px solid antiquewhite;
 }
 
+.bio > h2 {
+color: #9DB2BF;
+}
+
 .employment {
   border: 2px solid antiquewhite;
 }
+
+.employment > h2 {
+  color: #9DB2BF;
+  }
 
 .education {
   border: 2px solid antiquewhite;
 }
 
+.education > h2 {
+  color: #9DB2BF;
+  }
 
 .div-border {
   border: 2px solid whitesmoke;
   padding: 30px 30px 30px 30px;
 }
+
