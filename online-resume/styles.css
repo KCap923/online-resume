@@ -50,6 +50,16 @@ color: #9DB2BF;
   color: #9DB2BF;
   }
 
+.languages {
+  border: 2px solid antiquewhite;
+
+}
+
+.languages > h2 {
+  color: #9DB2BF;
+
+}
+
 .div-border {
   border: 2px solid whitesmoke;
   padding: 30px 30px 30px 30px;
