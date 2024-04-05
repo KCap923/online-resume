@@ -60,6 +60,31 @@ color: #9DB2BF;
 
 }
 
+.vlanguages {
+  border: 2px solid antiquewhite;
+
+}
+
+.vlanguages > h2{
+  color: #9DB2BF;
+
+}
+
+.english {
+  border: 2px solid antiquewhite;
+  background-color: #994D1C;
+  width: 500px;
+  height: 15px;
+  }
+
+  .spanish {
+    border: 2px solid antiquewhite;
+    background-color: #E48F45;
+    width: 180px;
+    height: 15px;
+    }
+    
+  
 .html {
 border: 2px solid antiquewhite;
 background-color: #698269;
