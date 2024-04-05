@@ -60,6 +60,34 @@ color: #9DB2BF;
 
 }
 
+.html {
+border: 2px solid antiquewhite;
+background-color: #698269;
+width: 180px;
+height: 15px;
+}
+
+.css {
+  border: 2px solid antiquewhite;
+  background-color: #7D8F69;
+  width: 210px;
+  height: 15px;
+  }
+
+  .javascript {
+    border: 2px solid antiquewhite;
+    background-color: #A9AF7E;
+    width: 80px;
+    height: 15px;
+    }
+
+    .python {
+      border: 2px solid antiquewhite;
+      background-color: #E6E5A3;
+      width: 30px;
+      height: 15px;
+      }
+
 .div-border {
   border: 2px solid whitesmoke;
   padding: 30px 30px 30px 30px;
